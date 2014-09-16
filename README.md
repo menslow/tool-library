@@ -1,9 +1,10 @@
-Bourbon Bar
-===========
+Tool Library
+============
 
-Rails 4 project configured with Bourbon Sass Mixin library
+Mister Machine Tool Library.
 
-Also includes: Neat, Bitters, and Ember
+Built with Rails 4.
+Includes: Neat, Bitters, and Ember
 
 To Install:
 
