@@ -5,5 +5,9 @@ App.Router.reopen({
 });
 
 App.Router.map(function() {
+
   this.route("patterns", { path: "/patterns" });
+
+  this.route("contact", { path: "/contact" });
+
 })
