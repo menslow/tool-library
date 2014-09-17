@@ -13,7 +13,12 @@
  *= require_self
  */
 
-@import "base/normalize";
+@import "normalize";
 @import "bourbon";
 @import "grid-settings";
-@import "posts";
+@import "neat";
+@import "base/base";
+
+/* Layouts */
+@import "structures/header";
+
