@@ -10,4 +10,6 @@ App.Router.map(function() {
 
   this.route("contact", { path: "/contact" });
 
+  this.resource("projects", { path: "/projects" });
+
 })
